@@ -1,5 +1,2 @@
 #!/bin/bash
 cd ..
-[master 0df0d82] Changing from current dir to the previous dir
- 1 file changed, 2 insertions(+)
- create mode 100755 0x00-shell_basics/10-back
